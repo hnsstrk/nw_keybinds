@@ -1,44 +1,40 @@
-:---------- Der wichtige Teil ----------:
-
-8 "follow" :Taste 8: Befehl /follow
-9 "stuck" :Taste 9: Befehl /stuck
-0 "Assist" :Taste 0: Befehl /Assist keine Ahnung, was das bringt.
-
-v interact
-Ctrl+v "gfxsetdefaultfov 75"
-middleclick fov55
-
 :---------- Der allgemeine Teil ----------:
 
-Insert "emote_notext air_guitar $$ bind_load"
-Delete "ShowGameUI 0" : "Enf" blendet das UI Menü aus, "Esc" blendet es wieder ein.
-Home "gotocharacterselect"
-End "Killme"
-PageUp "++netgraph"
-PageDown "++showdevui"
+8 "follow" :Taste 8: Befehl /follow
 
+Ctrl+f interact
+middleclick fov55
+
+Insert "emote_notext air_guitar $$ bind_load"
+Delete "++ShowGameUI"
+
+Home "gotocharacterselect"
+End "stuck"
+Ctrl+End "Killme"
+
+PageUp "++netgraph"
+PageDown "++fpsgraph"
 Ctrl+PageUp "++showmem"
-Ctrl+PageDown "++fpsgraph"
+Ctrl+PageDown "++showdevui"
 
 Ctrl+ß "gensendmessage Pets_Summon_Unsummon_Button Clicked"
 
-
 Divide "Invoke"
-Multiply "anon" :Anonym spielen NUTZLOS?
+Multiply "++CombatLog"
 Subtract "Team_Leave $$ GenSendMessage Match_Leavemrg Activate"
 Add "c Alliance +++"
 Numpadenter "g +++"
 
 :---------- Der VIP Teil ----------:
 
-F5 "gensendmessage Vipaction_Bankvendor activate" :F5: ViP_Bank
-F6 "gensendmessage Vipaction_Professionvendor activate" :F6: ViP_Händler
-F7 "gensendmessage Vipaction_Moonstonemaskteleport activate" :F7: ViP_Mondsteinmaske
-F8 "gensendmessage Vipaction_Overworldmapteleport activate" :F8: ViP_Reiseteleporter
-F9 "gensendmessage Vipaction_Mailbox activate" :F9: ViP_Briefkasten
-F10 "gensendmessage Vipaction_Salvager activate" :F10: ViP_Amboss
+F5 "gensendmessage Vipaction_Bankvendor activate"
+F6 "gensendmessage Vipaction_Professionvendor activate"
+F7 "gensendmessage Vipaction_Moonstonemaskteleport activate"
+F8 "gensendmessage Vipaction_Overworldmapteleport activate"
+F9 "gensendmessage Vipaction_Mailbox activate"
+F10 "gensendmessage Vipaction_Salvager activate"
 
-:---------- Der lustige Teil ----------:
+:---------- Der emotionale Teil ----------:
 
 Decimal "emote_notext afk"
 Numpad0 "emote_notext sit"
@@ -47,22 +43,22 @@ Numpad1 "emote_notext bow"
 Numpad2 "emote_notext bye"
 Numpad3 "emote_notext Laugh"
 
-Numpad4 "emote_notext checkgear"
-Numpad5 "emote_notext frustrated"
-Numpad6 "emote_notext Pushups"
+Numpad4 "emote_notext dancefolk"
+Numpad5 "emote_notext dancetwostep"
+Numpad6 "emote_notext dancesnake"
 
-Numpad7 "emote_notext Countdown"
-Numpad8 "emote_notext Facepalm"
-Numpad9 "emote_notext Facepalmdouble"
+Numpad7 "emote_notext Facepalm"
+Numpad8 "emote_notext Facepalmdouble"
+Numpad9 "emote_notext frustrated"
 
-Ctrl+Numpad1 "emote_notext pick_me"
+Ctrl+Numpad1 "emote_notext pushups"
 Ctrl+Numpad2 "emote_notext jumping_jacks"
-Ctrl+Numpad3 "emote_notext salute"
+Ctrl+Numpad3 "emote_notext charge"
 
 Ctrl+Numpad4 "emote_notext shrug"
 Ctrl+Numpad5 "emote_notext sleep"
 Ctrl+Numpad6 "emote_notext stretch"
 
 Ctrl+Numpad7 "emote_notext taunt"
-Ctrl+Numpad8 "emote_notext taunt_brodown"
+Ctrl+Numpad8 "emote_notext shoo"
 Ctrl+Numpad9 "emote_notext think"
