@@ -8,7 +8,7 @@ Da nicht alles ausschließlich auf meinem Mist gewachsen ist, anbei die Quellen 
 * http://neverwinter.gamepedia.com/Console_command
 * http://neverwinter.gamepedia.com/User:Wendylblack/tricks https://iruladoon.enjin.com/forum/m/35927129/viewthread/29214643-neverwinter-key-binding
 * https://www.reddit.com/r/Neverwinter/comments/1dp0pe/command_list_for_neverwinter/
-+ https://www.reddit.com/r/Neverwinter/comments/4ahw6n/useful_vip_keybind_commands/
+* https://www.reddit.com/r/Neverwinter/comments/4ahw6n/useful_vip_keybind_commands/
 
 ## Tastenzuordnung
 Nachfolgend eine Übersicht der Tastenzuordnung:
