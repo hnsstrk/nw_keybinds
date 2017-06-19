@@ -13,3 +13,5 @@ alias fov85 "gfxsetdefaultfov 85 $$ bind wheelplus fov80 $$ bind wheelminus fov9
 alias fov90 "gfxsetdefaultfov 90 $$ bind wheelplus fov85 $$ bind wheelminus fov95"
 alias fov95 "gfxsetdefaultfov 95 $$ bind wheelplus fov90 $$ bind wheelminus fov100"
 alias fov100 "gfxsetdefaultfov 100 $$ bind wheelplus fov95"
+
+alias a "alliance"
