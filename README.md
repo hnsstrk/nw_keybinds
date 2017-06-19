@@ -2,7 +2,7 @@
 Angepasste Keybinds für das Spiel [Neverwinter](http://www.arcgames.com/de/games/neverwinter). Derzeit überarbeite ich jedoch noch die finale Zuordnung der Tasten. Das heißt es kann sich nochmal etwas an der aktuellen Zuordnung ändern (verbessern).
 
 ## Quellen
-Da nicht alles ausschließlich auf meinem Mist gewachsen ist, anbei die Quellen derer ich mich bedient habe. Vor allem bei [Wendylblack](http://neverwinter.gamepedia.com/User:Wendylblack/) habe ich mich großzügig bezüglich der Zoomfunktion bedient. Diese bislang die beste Lösung die ich finden konnte. Alternativ kann man sich auch einmal [die auf dem Laden von Dateien basieren de Lösung](http://bolorkestar.wixsite.com/marcusguide/usefull) von [Marcus's Guides](http://bolorkestar.wixsite.com/marcusguide) anschauen.
+Da nicht alles ausschließlich auf meinem Mist gewachsen ist, anbei die Quellen derer ich mich bedient habe. Vor allem bei [Wendylblack](http://neverwinter.gamepedia.com/User:Wendylblack/) habe ich mich großzügig bezüglich der Zoomfunktion bedient. Diese ist die bislang beste Lösung, die ich finden konnte. Alternativ kann man sich auch einmal [die auf dem Laden von Dateien basieren de Lösung](http://bolorkestar.wixsite.com/marcusguide/usefull) von [Marcus's Guides](http://bolorkestar.wixsite.com/marcusguide) anschauen.
 
 * http://neverwinter.gamepedia.com/Emotes
 * http://neverwinter.gamepedia.com/Console_command
