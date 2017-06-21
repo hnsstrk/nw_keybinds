@@ -2,7 +2,7 @@
 
 8 "follow" :Taste 8: Befehl /follow
 
-Ctrl+f interact
+v interact
 middleclick fov55
 
 Insert "emote_notext air_guitar $$ bind_load"

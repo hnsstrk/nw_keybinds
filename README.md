@@ -13,7 +13,7 @@ Da nicht alles ausschließlich auf meinem Mist gewachsen ist, anbei die Quellen 
 ## Tastenzuordnung
 Nachfolgend eine Übersicht der Tastenzuordnung:
 
-* `Strg+f` - Mit nahem Objekt interagieren (Wenn wieder alle vor der Bank stehen.)
+* `v` - Mit nahem Objekt interagieren (Wenn wieder alle vor der Bank stehen.)
 * `Strg+ß` - Gefährten rufen / wegschicken (Das Gefähren-Menü liegt im Standard schon `ß`.)
 * `8` - Ausgewähltem Ziel nachlaufen
 
