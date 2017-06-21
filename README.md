@@ -14,7 +14,7 @@ Da nicht alles ausschließlich auf meinem Mist gewachsen ist, anbei die Quellen 
 Nachfolgend eine Übersicht der Tastenzuordnung:
 
 * `v` - Mit nahem Objekt interagieren (Wenn wieder alle vor der Bank stehen.)
-* `Strg+ß` - Gefährten rufen / wegschicken (Das Gefähren-Menü liegt im Standard schon `ß`.)
+* `Strg+ß` - Gefährten rufen / wegschicken (Das Gefährten-Menü liegt im Standard schon `ß`.)
 * `8` - Ausgewähltem Ziel nachlaufen
 
 ### Maussteuerung
