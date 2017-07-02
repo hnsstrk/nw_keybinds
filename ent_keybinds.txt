@@ -1,9 +1,18 @@
-:---------- Der allgemeine Teil ----------:
+F5 "gensendmessage Vipaction_Bankvendor activate"
+F6 "gensendmessage Vipaction_Professionvendor activate"
+F7 "gensendmessage Vipaction_Moonstonemaskteleport activate"
+F8 "gensendmessage Vipaction_Overworldmapteleport activate"
+F9 "gensendmessage Vipaction_Mailbox activate"
+F10 "gensendmessage Vipaction_Salvager activate"
 
-8 "follow" :Taste 8: Befehl /follow
+
+8 "follow"
+9 "assist"
+Ctrl+ß "gensendmessage Pets_Summon_Unsummon_Button Clicked"
 
 v interact
 middleclick fov55
+
 
 Insert "emote_notext air_guitar $$ bind_load"
 Delete "++ShowGameUI"
@@ -17,7 +26,6 @@ PageDown "++fpsgraph $$ fpsgraph"
 Ctrl+PageUp "++showmem $$ showmem"
 Ctrl+PageDown "++showdevui $$ showdevui"
 
-Ctrl+ß "gensendmessage Pets_Summon_Unsummon_Button Clicked"
 
 Divide "Invoke"
 Multiply "++CombatLog $$ CombatLog"
@@ -25,16 +33,6 @@ Subtract "Team_Leave $$ GenSendMessage Match_Leavemrg Activate"
 Add "c Alliance +++"
 Numpadenter "g +++"
 
-:---------- Der VIP Teil ----------:
-
-F5 "gensendmessage Vipaction_Bankvendor activate"
-F6 "gensendmessage Vipaction_Professionvendor activate"
-F7 "gensendmessage Vipaction_Moonstonemaskteleport activate"
-F8 "gensendmessage Vipaction_Overworldmapteleport activate"
-F9 "gensendmessage Vipaction_Mailbox activate"
-F10 "gensendmessage Vipaction_Salvager activate"
-
-:---------- Der emotionale Teil ----------:
 
 Decimal "emote_notext afk"
 Numpad0 "emote_notext sit"
