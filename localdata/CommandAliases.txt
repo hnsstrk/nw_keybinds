@@ -15,3 +15,4 @@ alias fov95 "gfxsetdefaultfov 95 $$ bind wheelplus fov90 $$ bind wheelminus fov1
 alias fov100 "gfxsetdefaultfov 100 $$ bind wheelplus fov95"
 
 alias a "alliance"
+alias thoon "Please don't kill the Thoons!"
